@@ -1,5 +1,10 @@
 # Software-Developer-Salary-Prediction
 Predict software developer salaries using machine learning models through an interactive Streamlit app. Input details like education level, countries, and experience to get instant salary estimates.
+
+## Note:
+I am note able to attached the csv file here because csv file is approx mote 90mb thats why I give you the like of webiste for dataset is https://survey.stackoverflow.co/
+with the help of this like you can easily download the dataset after the extract the file and copy and paste in same directory where present my attached file I already attached the file here only you need to download dataset that's all (I used dataset year 2020).
+
 # Software Developer Salary Prediction using Machine Learning with Streamlit
 
 ## Project Description
