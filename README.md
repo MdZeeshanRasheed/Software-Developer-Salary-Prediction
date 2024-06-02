@@ -71,6 +71,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Contributors are welcome! Please read for details on our code of conduct and the process for submitting pull requests.
 
+Make sure the image path in the Markdown matches the location where you saved the image in your repository.
+
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
