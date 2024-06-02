@@ -67,6 +67,34 @@ Follow these instructions to get a copy of the project up and running on your lo
 - `requirements.txt`: List of dependencies required to run the project.
 - `README.md`: Project overview and setup instructions.
 
+git add Screenshot1.png
+git commit -m "Add Screenshot1"
+git push origin main
+
+git add Screenshot2.png
+git commit -m "Add Screenshot2"
+git push origin main
+
+git add Screenshot3.png
+git commit -m "Add Screenshot3"
+git push origin main
+
+git add Screenshot4.png
+git commit -m "Add Screenshot4"
+git push origin main
+
+git add Screenshot5.png
+git commit -m "Add Screenshot5"
+git push origin main
+
+git add Screenshot6.png
+git commit -m "Add Screenshot6"
+git push origin main
+
+git add Screenshot7.png
+git commit -m "Add Screenshot7"
+git push origin main
+
 ### Contributing
 
 Contributors are welcome! Please read for details on our code of conduct and the process for submitting pull requests.
