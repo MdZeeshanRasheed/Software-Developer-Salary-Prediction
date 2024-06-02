@@ -67,6 +67,15 @@ Follow these instructions to get a copy of the project up and running on your lo
 - `requirements.txt`: List of dependencies required to run the project.
 - `README.md`: Project overview and setup instructions.
 
+Screenshots
+
+![Screenshot1](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/80b6bbdc-f192-4919-a46e-90a382a8fc22)
+![Screenshot2](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/e8ea4c35-5fe8-4d0e-9d5e-cba0177e2866)
+![Screenshot3](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/088c4b3b-14fa-414a-af34-7e8c36fc4403)
+![Screenshot4](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/f4d162c3-6e8b-4d77-bee5-870fb9158b4a)
+![Screenshot5](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/c2cc1ab8-06f1-4ea8-afe4-89eaaa42c704)
+![Screenshot6](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/5ba27a00-5018-4a54-ba03-ce279ccd7914)
+![Screenshot7](https://github.com/MdZeeshanRasheed/Software-Developer-Salary-Prediction/assets/142104944/533b8101-09ba-4260-892d-58616ea50b90)
 
 
 ### Contributing
