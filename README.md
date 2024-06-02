@@ -1,5 +1,5 @@
 # Software-Developer-Salary-Prediction
-Predict software developer salaries using machine learning models through an interactive Streamlit app. Input details like experience, location, and education to get instant salary estimates.
+Predict software developer salaries using machine learning models through an interactive Streamlit app. Input details like education level, countries, and experience to get instant salary estimates.
 # Software Developer Salary Prediction using Machine Learning with Streamlit
 
 ## Project Description
